@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\IDEProjects\AndroidStudioProjects\Simple-Android-Calculator-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\IDEProjects\AndroidStudioProjects\Simple-Android-Calculator-master1\app\build\intermediates\pre-dexed\debug\classes-ede7b9bbf29fe89b629109e1c94e51bc12425fcd.jar" />
+    </item>
+    <item
+        jar="C:\Users\yanyee\.gradle\caches\modules-2\files-2.1\com.github.kenglxn.QRGen\javase\2.1.0\1016a2640c091b9f8c25c216210f61b5c742b430\javase-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1016a2640c091b9f8c25c216210f61b5c742b430">
+        <dex dex="D:\IDEProjects\AndroidStudioProjects\Simple-Android-Calculator-master1\app\build\intermediates\pre-dexed\debug\javase-2.1.0-f1a93f0c279a8414740e174f103acb9268e9293e.jar" />
+    </item>
+    <item
+        jar="C:\Users\yanyee\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.1.0\908e18674f895e3e1fa8f4a954b8c637a23d2801\core-3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="908e18674f895e3e1fa8f4a954b8c637a23d2801">
+        <dex dex="D:\IDEProjects\AndroidStudioProjects\Simple-Android-Calculator-master1\app\build\intermediates\pre-dexed\debug\core-3.1.0-8e8d2509f0b55793d7175cd9dec9a5bd88d7473f.jar" />
+    </item>
+    <item
+        jar="D:\IDEProjects\AndroidStudioProjects\Simple-Android-Calculator-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\IDEProjects\AndroidStudioProjects\Simple-Android-Calculator-master1\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0-af0cabd5ebd8a47b6ac55cb836cf72df0f3d7ce7.jar" />
+    </item>
+    <item
+        jar="C:\Users\yanyee\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\IDEProjects\AndroidStudioProjects\Simple-Android-Calculator-master1\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0-57a983814d5947dd6e3059f5865fccfa863f89b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\yanyee\.gradle\caches\modules-2\files-2.1\org.jfree\jfreesvg\2.1\206679ef09f39b57b2f73dc79bd09785efe007af\jfreesvg-2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="206679ef09f39b57b2f73dc79bd09785efe007af">
+        <dex dex="D:\IDEProjects\AndroidStudioProjects\Simple-Android-Calculator-master1\app\build\intermediates\pre-dexed\debug\jfreesvg-2.1-0562475a98e6bf489ae7c9552c9a98a70529ed97.jar" />
+    </item>
+    <item
+        jar="C:\Users\yanyee\.gradle\caches\modules-2\files-2.1\com.google.zxing\javase\3.1.0\f5765d80a466cc6548dd6b9ba6c33b379581119b\javase-3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f5765d80a466cc6548dd6b9ba6c33b379581119b">
+        <dex dex="D:\IDEProjects\AndroidStudioProjects\Simple-Android-Calculator-master1\app\build\intermediates\pre-dexed\debug\javase-3.1.0-695dcfa5ee3ab061fe3e1194dbfa7d186d9e18a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\yanyee\.gradle\caches\modules-2\files-2.1\com.github.kenglxn.QRGen\core\2.1.0\955fd266f73721c8326ca8c8e3011fbfac4a9864\core-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="955fd266f73721c8326ca8c8e3011fbfac4a9864">
+        <dex dex="D:\IDEProjects\AndroidStudioProjects\Simple-Android-Calculator-master1\app\build\intermediates\pre-dexed\debug\core-2.1.0-c037771b236ff2c2feadcc97976b5dc2ec7f2a6a.jar" />
+    </item>
+
+</items>
